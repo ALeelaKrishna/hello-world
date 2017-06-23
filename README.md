@@ -1,4 +1,4 @@
 # hello-world
-Myfirst repo, Iam leela krishna do
+Myfirst repo,
 Hi, Iam leela krishna
 
